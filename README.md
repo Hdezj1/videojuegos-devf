@@ -12,6 +12,6 @@
 
 #### Legales
 
-- Cesar Piña
+- Joana Herrera
 
-- MIT
+- Becalos
